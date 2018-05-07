@@ -33,10 +33,10 @@ FILE: output.txt
 101.99.75.151
 dns1.soprodns.ru
 gandcrab.bit
-http://ipv4bot.whatismyipaddress.com
-http://nomoreransom.coin
-https://ipv6bot.whatismyipaddress.com
-https://nomoreransom.co
+http://ipv4bot.whatismyipaddress.com-
+http://nomoreransom.coin-
+https://ipv6bot.whatismyipaddress.com-
+https://nomoreransom.co-
 makewebomb.xyz
 test.nomoreransom.bit
 
